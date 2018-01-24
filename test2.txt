@@ -2,3 +2,4 @@ create file test2
 remote update2
 122001
 good
+fine
